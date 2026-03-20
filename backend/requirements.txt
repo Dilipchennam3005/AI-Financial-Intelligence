@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn==0.30.0
+yfinance==0.2.40
+anthropic==0.34.0
+prophet==1.1.5
+scikit-learn==1.5.0
+pandas==2.2.0
+numpy==1.26.0
+requests==2.32.0
+python-dotenv==1.0.0
+pydantic==2.0.0
