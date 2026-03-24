@@ -1,0 +1,36 @@
+
+Fix immediately — costs nothing, takes 1 hour:
+
+Fix "integrating integrating" typo — State Street bullet 3
+Fix "Kubernetes based" → "Kubernetes-based"
+Fix comma → "and" in observability bullet
+Add LinkedIn URL to header
+Add relevant coursework line under education
+
+
+Short term — 1 to 4 weeks:
+
+Make Meridian Analytics GitHub repo public with a clean README, live demo link, and architecture diagram — right now it's listed but unverifiable
+Add a second project — one pure SE/backend project (not AI) shows range. Even a simple distributed system, CLI tool, or API you built solo
+Add coursework: Distributed Systems, Machine Learning, Cloud Computing, Data Engineering
+
+
+Medium term — 1 to 3 months:
+
+Get AWS Solutions Architect Associate — removes "In Progress" and becomes a hard credential
+Get AWS ML Specialty or Google Professional ML Engineer after that — directly hits the ML Infrastructure preferred quals at Google/Microsoft
+Add one open source contribution — even a small PR to LangChain, FastAPI, or Hugging Face. One merged PR to a known repo is worth more than 5 personal projects to a FAANG recruiter
+
+
+Longer term — 3 to 6 months:
+
+Write one technical blog post — Medium or Substack — about something you built. RAG pipelines, Kafka at scale, MLOps on Kubernetes. Google engineers publish. It signals you think deeply about your work
+Add PyTorch depth — take one structured course (fast.ai or PyTorch official) so you can genuinely defend it in an interview, then reframe the Hugging Face bullet back to PyTorch confidently
+Contribute to or publish a small dataset or model on Hugging Face Hub — signals ML community involvement
+
+
+Things you genuinely cannot fix on paper:
+
+No publications or patents — not realistic at 2 YOE, don't worry about it
+Missing CV/RL/Speech/Audio ML experience — only matters for specialized research roles, irrelevant for 90% of what you're applying to
+Accessibility experience gap — only relevant if applying to specific product accessibility teams
